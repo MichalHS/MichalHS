@@ -12,3 +12,6 @@ Hi, I'm Michał. 👋
 ![CSS](https://img.shields.io/badge/CSS-brightgreen)
 ![C](https://img.shields.io/badge/C-brightgreen)
 ![PHPMYADMIN](https://img.shields.io/badge/PhpMyAdmin-brightgreen)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
+![SQL](https://img.shields.io/badge/-sql-black?style=flat&logo=mysql)
